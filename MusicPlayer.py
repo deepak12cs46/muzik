@@ -4,6 +4,8 @@
 ## implement playlist
 ## drag and drop
 
+##Deepak Verma
+
 from multiprocessing import Process
 import wx
 import pyglet
